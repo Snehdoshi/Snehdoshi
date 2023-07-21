@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snehdoshi
+- 👋 Hi, I’m Sneh doshi
 - 👀 I’m interested in coding , Hacking and also business related stuff.
 - 🌱 I’m currently learning Python language at Jain University , 1st year , in department of CSE Software Engineering..
 - 💞️ I’m looking to collaborate on Seminars , learning Events and Workshops.
